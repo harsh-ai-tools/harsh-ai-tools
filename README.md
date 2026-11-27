@@ -11,7 +11,7 @@
 ### 🚀 Projects
 | Project | What it does |
 |---|---|
-| [🎬 Reel Radar](https://github.com/harsh-ai-tools/reel-radar) | Watches Shorts/Reels/TikToks locally and turns them into a hook & pacing playbook. Free, works on Windows. |
+| [🎣 HookRadar](https://github.com/harsh-ai-tools/hook-radar) | Free, local AI competitor & hook analyzer for **Instagram Reels and YouTube Shorts**: see why their hooks win, then make yours better. Works with Claude. |
 | *More coming soon…* | ⭐ Star or follow to get the next one |
 
 ### 🧰 Tools I work with
